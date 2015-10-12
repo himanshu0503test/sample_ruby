@@ -10,4 +10,4 @@ notifications:
              - exampleone@org.com
              - exampletwo@org.com
 
-archive: true
+archive: false
