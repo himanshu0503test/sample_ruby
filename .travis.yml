@@ -4,6 +4,7 @@ rvm:
   - 1.9.1
 
 before_install:
+  - rvm debug
   - rvm list
 
 env:
